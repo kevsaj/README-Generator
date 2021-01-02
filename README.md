@@ -10,7 +10,7 @@ This is my README for Assignment 9
 
 Page is live: [HERE](https://kevsaj.github.io/README-Generator/)
 
-![Should Look like this lol](/img/Readme Gen.mp4)
+![Should Look like this lol](/img/Readme_Gen.mp4)
 # Installation
 * Learn Node.js magic!
 * Get Motivated
