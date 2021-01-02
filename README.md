@@ -8,7 +8,7 @@ This is my README for Assignment 9
 * [Credits](#Credits)
 * [License](#License)
 
-Page is live: [HERE](https://kevsaj.github.io/README-Generator/) [Video](https://github.com/kevsaj/README-Generator/blob/main/img/Readme_Gen.mp4)
+Page is live: [Video](https://github.com/kevsaj/README-Generator/blob/main/img/Readme_Gen.mp4)
 
 ![Should Look like this lol](/img/Screenshot_app.png)
 # Installation
